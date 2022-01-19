@@ -2,7 +2,7 @@
 .vs/
 
 .DS_Store
-dist/
+
 node_modules/
 src/config.design.json
 src/config.publish.json
